@@ -2,4 +2,4 @@
 a photography website which is mobile-responsive
 (photos updates when refreshes)
 
-written by html, css, javascript, jquery
+Build with HTML5, CSS3, JavaScript, jQuery
