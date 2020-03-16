@@ -48,11 +48,21 @@ main {
 }
 
 #landing-text h2 {
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
   color: #888;
 }
 
+#landing-text p {
+  padding-top: 3.5rem;
+  color: #888;
+  font-weight: 400;
+  font-size: 1.25rem;
+  margin: 0;
+}
+
 #landing-image {
-  background: url(https://source.unsplash.com/De8wMYoSSBc);
+  background: url(https://images.unsplash.com/photo-1452587925148-ce544e77e70d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
